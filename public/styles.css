@@ -1,6 +1,12 @@
 body{
   background: red;
+  text-align: center;
+
 }
 h3{
   margin-top: 40px;
+}
+
+.message{
+  list-style-type: none;
 }
